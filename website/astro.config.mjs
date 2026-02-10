@@ -3,8 +3,8 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://github.github.io/awesome-copilot",
-  base: "/awesome-copilot/",
+  site: "https://hannahbellesheart.github.io/awesome-github-copilot",
+  base: "/awesome-github-copilot/",
   output: "static",
   integrations: [sitemap()],
   build: {
